@@ -1,3 +1,9 @@
+# INSTALLATION
+
+```console
+pip install -r requirements.txt
+```
+
 # Supported Hashing Algorithms
 
 - Argon2
